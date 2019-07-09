@@ -1,11 +1,5 @@
 # web-contactlist
-i am starting to run out of descriptions - the simplest contact list app ever - not my homework - done in 2h45m
 
-</br>
+ - [Live Demo Here!](https://space-hound.github.io/web-contactlist/)
 
- ## live preview here
-  - [Looking for this?](https://space-hound.github.io/web-contactlist/)
-
-</br>
-
-`Dec 2018`
+I made this for a colleague of mine, as "his homework" for a class. I literally made it in 135 minutes without any library or framework and with breaks. It is just the front end for a contact list app, where you can add, edit and remove contacts (name, email and phone). Honestly there is nothing interesting at this repository, only the fact that I am proud of the time it took me to make it.
